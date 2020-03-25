@@ -1,6 +1,5 @@
 let divide = function() {
-  return 2000 / 100 }
-
+  return 2000/100
+}
 let square = n => n*n
-
-let add = (n1, n2) => n1 + n2
+let add = (num1, num2) => num1 + num2 
